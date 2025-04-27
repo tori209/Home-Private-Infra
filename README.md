@@ -7,6 +7,5 @@
 ---
 
 ### 일지 
-다음 링크 참조. (둘 다 같은 내용.)
+다음 링크 참조.
 - [Github Wiki](https://github.com/tori209/Home-Private-Infra/wiki)
-- [Notion](https://www.notion.so/tori209/1e08fffa223b8085ad4ddc6857cc114b?v=1e08fffa223b806ab095000cc9aafc59)
